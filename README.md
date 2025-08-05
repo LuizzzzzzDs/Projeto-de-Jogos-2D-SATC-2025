@@ -10,7 +10,7 @@ Este projeto tem como objetivo a criação de jogos digitais 2D, utilizando a en
 - **Instituição:** Escola Técnica SATC  
 - **Ano:** 2025  
 
-Luiz Gabriel está iniciando no mundo do desenvolvimento de jogos e este projeto representa seu primeiro grande passo na área de criação de games com Unity.
+Estou iniciando no mundo do desenvolvimento de jogos, e este projeto representa meu primeiro grande passo na área de criação de games com Unity.
 
 ---
 
