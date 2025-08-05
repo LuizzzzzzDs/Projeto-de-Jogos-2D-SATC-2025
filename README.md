@@ -1,6 +1,6 @@
 # Projeto de Jogos Digitais 2D - 2025 🎮
 
-Este projeto tem como objetivo a criação de jogos digitais 2D, utilizando a engine Unity, como parte da disciplina de **Jogos Digitais (IDIGAIS)** na segunda fase do curso técnico em Informática da **Escola SATC**, em Criciúma - SC.
+Este projeto tem como objetivo a criação de jogos digitais 2D, utilizando a engine Unity, como parte da disciplina de **Jogos Digitais** na segunda fase do curso técnico em Informática da **Escola SATC**, em Criciúma - SC.
 
 ## 👨‍💻 Sobre o Desenvolvedor
 
